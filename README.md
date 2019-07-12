@@ -4,8 +4,6 @@
 
 This is a tool for installing the latest mainline Linux kernel on Ubuntu-based distributions.
 
-![](https://2.bp.blogspot.com/-76C_l3BcJyg/WNdzTpSoiKI/AAAAAAAAGKs/xOvB-LCH2cYiDpdbqWkeOLhY9I7TVACJwCLcB/s1600/ukuu_main_window.png)
-
 ### Features
 
 *   Fetches list of kernels from [kernel.ubuntu.com](http://kernel.ubuntu.com/~kernel-ppa/mainline/)
