@@ -13,7 +13,7 @@ This is a tool for installing the latest mainline Linux kernel on Ubuntu-based d
 *   Downloads and installs packages automatically
 
 ### Downloads & Source Code 
-Original Ukuu is written using Vala and GTK3 toolkit. Original Source code and binaries are available from the [GitHub project page](https://github.com/teejee2008/ukuu).
+Original Ukuu is written using Vala and GTK3 toolkit by TeejeeTech (Tony George http://teejeetech.in) Original Source code and binaries are available from https://github.com/teejee2008/ukuu.
 
 This modified version availible from the [GitHub project page](https://github.com/paullittrell/ukuu).
 
